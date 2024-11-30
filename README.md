@@ -7,21 +7,36 @@ In this project, I will analyze my personal YouTube usage data to gain insights 
 Table of Contents
 
 Motivation
+
 Objectives
+
 Tools
+
 Data Source
+
 Exported YouTube Data
+
 Supplementary Data
+
 Data Processing
+
 Planned Visualizations
+
 Planned Analyses
+
 Temporal Patterns
+
 Content Preferences
+
 Engagement Analysis
+
 Findings
+
 Limitations
+
 Data-Specific Limitations
 Personal Limitations
+
 Future Work
 
 
