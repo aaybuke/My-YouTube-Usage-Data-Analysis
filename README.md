@@ -1,6 +1,6 @@
 # My-YouTube-Usage-Data-Analysis
 Description
-This is my project for the DSA210 Introduction to Data Science Course (Fall 2023-2024) at Sabancı University.
+This is my project for the DSA210 Introduction to Data Science Course (Fall 2024-2025) at Sabancı University.
 In this project, I will analyze my personal YouTube usage data to gain insights into my viewing habits, preferences, and engagement patterns. The analysis will include exploratory data analysis (EDA), visualizations, and potentially machine learning models to uncover trends and make predictions based on my behavior on the platform.
 
 #Analyzing YouTube Watch Patterns Across Years and Age
@@ -143,7 +143,7 @@ The scatter plot with K-means clustering demonstrates distinct clusters in my Yo
 
 Watching time gradually declines after peaking in early adulthood (21–23). This demonstrates a natural progression of shifting priorities as I age.
 
-The heatmap provides a detailed breakdown of watching time across genres for different age clusters:
+The heatmap provides a detailed breakdown of watching time across genres for different age clusters.
 
 Genre Dominance:
 
@@ -184,3 +184,4 @@ Advanced Models: Experiment with machine learning models to predict video engage
 Long-Term Tracking: Update the analysis with newer data to observe trends over time.
 Sentiment Analysis: Explore the sentiment of my comments and liked videos.
 Interactive Visualizations: Develop a web app or dashboard for a more user-friendly presentation of the insights.
+
