@@ -3,6 +3,8 @@ Description
 This is my project for the DSA210 Introduction to Data Science Course (Fall 2024-2025) at Sabancı University.
 In this project, I will analyze my personal YouTube usage data to gain insights into my viewing habits, preferences, and engagement patterns. The analysis will include exploratory data analysis (EDA), visualizations, and potentially machine learning models to uncover trends and make predictions based on my behavior on the platform.
 
+WEBSITE: https://aaybuke.github.io/aybw-prj/
+
 #Analyzing YouTube Watch Patterns Across Years and Age
 
 By extracting and organizing data such as genres, watch times, and years, I aimed to uncover insights about my evolving preferences and explore how my age influenced the type and amount of content I consumed.
